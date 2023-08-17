@@ -1,4 +1,5 @@
 pandas
 numpy
 ipykernel
+flask
 -e .
