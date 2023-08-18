@@ -24,3 +24,14 @@ TEST_DATA_DIR_KEY = "test.csv"
 
 
 #NOW GO TO THE CONFIGURATION.PY FILE TO EXECUTE THIS PATHS
+
+# Data Transformation related variable
+
+DATA_TRANSFORMATION_ARTIFACT = "data_transformation"
+DATA_PREPROCCED_DIR = "procceor"
+DATA_TRANSFORMTION_PROCESSING_OBJ = "processor.pkl"
+DATA_TRANSFORM_DIR = "transformation"
+TRANSFORM_TRAIN_DIR_KEY = "train.csv"
+TRANSFORM_TEST_DIR_KEY = "test.csv"
+#os.path.join(ROOT_DIR, ARTIFACT_DIR_KEY, DATA_TRANSFORMATION_ARTIFACT,
+       #                                  DATA_TRANSFORM_DIR)
